@@ -1,7 +1,8 @@
+    
 server:
   port: ${PORT:8100}
 
-name: Fuzail
+name: Git
 
 endpoints:
   health:
