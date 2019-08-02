@@ -4,6 +4,8 @@ server:
 
 name: Git
 
+message: Hello world Fuzail from YAML GIT
+
 endpoints:
   health:
     sensitive: false
