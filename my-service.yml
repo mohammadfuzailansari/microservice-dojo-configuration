@@ -11,3 +11,9 @@ endpoints:
     sensitive: false
   shutdown:
     enabled: true
+    
+    
+spring:
+    data:
+        mongodb:
+            host: dockerhost
